@@ -59,8 +59,8 @@ export const TECHNOLOGIES: Technology[] = [
 
 // Simulação de Antes/Depois (Imagens ilustrativas)
 export const TRANSFORMATIONS: Transformation[] = [
-  { id: '1', before: '/dentes/img1.jpg', after: '/dentes/img2.jpg' },
+  { id: '1', after: '/dentes/img1.jpg', before: '/dentes/img2.jpg' },
   { id: '2', before: '/dentes/img3.jpg', after: '/dentes/img4.jpg' },
-  { id: '3', before: '/dentes/img5.jpg', after: '/dentes/img6.jpg' },
-  { id: '4', before: '/dentes/img7.jpg', after: '/dentes/img8.jpg' },
+  { id: '3', after: '/dentes/img5.jpg', before: '/dentes/img6.jpg' },
+  { id: '4', after: '/dentes/img7.jpg', before: '/dentes/img8.jpg' },
 ];
